@@ -24,3 +24,12 @@ You have two options:
 
 ### Week 01: Introduction to OOP
 * Bank account with deposit and withdraw.
+
+### Week 02: CRUD Operations w/Vectors
+* Eclipse CRUD.
+* Restaurant Dishes CRUD.
+* Contact CRUD.
+
+### Week 03: Relations between classes
+* Store Manager.
+* Delivery Man Manager.
