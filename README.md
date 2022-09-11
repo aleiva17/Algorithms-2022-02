@@ -33,3 +33,7 @@ You have two options:
 ### Week 03: Relations between classes
 * Store Manager.
 * Delivery Man Manager.
+
+### Week 04: ASCII Art
+* Bouncing DVD.
+* Airplane landing.
