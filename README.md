@@ -40,3 +40,6 @@ You have two options:
 
 ### Week 05: Inheritance
 * UFO's.
+
+### Week 06: Collisions
+* Cat & Rats.
