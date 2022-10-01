@@ -43,3 +43,6 @@ You have two options:
 
 ### Week 06: Collisions
 * Cat & Rats.
+
+### Week 07: Summary
+* Bullets.
