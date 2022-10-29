@@ -46,3 +46,6 @@ You have two options:
 
 ### Week 07: Summary
 * Bullets.
+
+### Week 11: Buffer & Bitmaps
+* Pokemon and coins
