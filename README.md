@@ -49,3 +49,6 @@ You have two options:
 
 ### Week 11: Buffer & Bitmaps
 * Pokemon and coins
+
+### Week 12: Collisions
+* Horse animation.
